@@ -101,7 +101,7 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
-
+insomnia.json/
 # Environments
 .env
 .venv
